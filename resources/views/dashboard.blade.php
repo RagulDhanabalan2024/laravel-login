@@ -25,7 +25,7 @@
             </div>
             <div class="col-md-8 row align-items-center">
                 <p class="font-monospace">
-                    Welcome Sir,
+                    Welcome,
                 </p><br><br>
                 <h5>
                     This is a sample dashboard for the login-system
